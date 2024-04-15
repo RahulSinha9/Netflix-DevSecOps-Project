@@ -65,7 +65,7 @@
     docker rmi -f netflix
     ```
 
-It will show an error cause you need API key
+It will show an error cause you need API key.
 
 **Step 4: Get the API Key**
 
