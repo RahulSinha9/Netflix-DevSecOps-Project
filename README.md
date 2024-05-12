@@ -22,7 +22,7 @@
 [https://www.youtube.com/@cloudchamp?
 ](https://www.youtube.com/@cloudchamp?sub_confirmation=1)
 
-# Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
+# Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project
 
 ### **Phase 1: Initial Setup and Deployment**
 
